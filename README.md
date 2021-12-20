@@ -1,1 +1,1 @@
-# SNP-set-genomic-prediction
+# Variatonal Bayes for genomic prediction
