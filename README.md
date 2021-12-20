@@ -1,1 +1,1 @@
-# Variatonal Bayes for genomic prediction
+# Variational Bayes for genomic prediction
